@@ -2,19 +2,29 @@
 
 - 🔭 This is my personal GitHub account.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilseri01" alt="nilseri01" /></a> </p>
+<!-- ![nilseri01's github stats](https://github-readme-stats.vercel.app/api?username=nilseri01&show_icons=true&line_height=21&show_icons=g&theme=nord&rank_icon=github&include_all_commits=true&hide=contribs,issues) 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nilseri01)](https://github.com/nilseri01/github-readme-stats)
+<span style="display:inline-block; width: 10px;"></span>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilseri01&show_icons=true&layout=compact&theme=nord&count_private=true) -->
+
+![nilseri01's trophy](https://github-profile-trophy.vercel.app/?username=nilseri01&theme=nord&column=8&margin-w=3&margin-h=15)
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilseri01" alt="nilseri01" /></a> </p> -->
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nilseri01&theme=nord)](https://github.com/nilseri01/github-readme-stats)
 
 - 🔭 My Medium GitHub account: [https://github.com/senoritadeveloper01](https://github.com/senoritadeveloper01).
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senoritadeveloper01" alt="senoritadeveloper01" /></a> </p>
+![senoritadeveloper01's trophy](https://github-profile-trophy.vercel.app/?username=senoritadeveloper01&theme=nord&column=8&margin-w=3&margin-h=15)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=senoritadeveloper01)](https://github.com/senoritadeveloper01/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=senoritadeveloper01&theme=nord)](https://github.com/senoritadeveloper01/github-readme-stats)
+
 
 <h3 align="left">Other accounts:</h3>
   
 - 📝 My Medium account: [https://medium.com/@senoritadeveloper](https://medium.com/@senoritadeveloper)
+
+![senoritadeveloper's blog](https://github-read-medium.vercel.app/latest?username=senoritadeveloper&limit=6&theme=nord)
 
 - 💬 My Docker account: [https://hub.docker.com/u/nilseri](https://hub.docker.com/u/nilseri)
   

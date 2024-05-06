@@ -13,6 +13,8 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilseri01" alt="nilseri01" /></a> </p> -->
 
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,angular,react,bootstrap,mysql,cassandra,kafka,rabbitmq,redis,elasticsearch,grafana,prometheus,openstack,docker,jenkins&perline=15" alt="Tech Stack" /> 
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nilseri01&theme=nord)](https://github.com/nilseri01/github-readme-stats)
 
 🔭 My Medium GitHub account: [https://github.com/senoritadeveloper01](https://github.com/senoritadeveloper01).

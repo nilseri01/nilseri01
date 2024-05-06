@@ -17,7 +17,7 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nilseri01&theme=nord)](https://github.com/nilseri01/github-readme-stats)
 
-🔭 My Medium GitHub account: [https://github.com/senoritadeveloper01](https://github.com/senoritadeveloper01).
+🔭 My Medium GitHub account: [https://github.com/senoritadeveloper01](https://github.com/senoritadeveloper01)
 
 [![Github gists](https://gist-count.vercel.app/api?username=senoritadeveloper01)](https://gist.github.com/senoritadeveloper01)
 

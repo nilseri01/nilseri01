@@ -30,6 +30,8 @@
   
 - 🌱 Languages and Tools: [https://stackshare.io/nilseri/my-stack](https://stackshare.io/nilseri/my-stack)
 
+<!-- ![ReadME Jokes Card](https://readme-jokes.vercel.app/api) -->
+
 <!--
 **nilseri01/nilseri01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

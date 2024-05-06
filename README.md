@@ -24,7 +24,7 @@
   
 - 📝 My Medium account: [https://medium.com/@senoritadeveloper](https://medium.com/@senoritadeveloper)
 
-![senoritadeveloper's blog](https://github-read-medium.vercel.app/latest?username=senoritadeveloper&limit=6&theme=nord)
+![senoritadeveloper's blog](https://github-read-medium.vercel.app/latest?username=senoritadeveloper&limit=4&theme=nord)
 
 - 💬 My Docker account: [https://hub.docker.com/u/nilseri](https://hub.docker.com/u/nilseri)
   
